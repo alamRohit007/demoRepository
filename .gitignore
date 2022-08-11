@@ -1,0 +1,5 @@
+*.log
+pyautogui/
+dir/
+static/
+g3.txt
